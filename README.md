@@ -1,41 +1,17 @@
-# Beginning of the End
+# Overview
 
 This is the "Hello World" of my future world dominating robot.
 
-## Instructions for Build and Use
+I built this software to test out the print command functionality of my future robot.
 
-Steps to build and/or run the software:
 
-1. Create a new file called "HelloWorld.py"
-2. In that file, type "print("'Hello World', said the baby world destroying robot")"
-3. Save the file and click run code on the top right
+[Software Demo Video] https://youtu.be/6jAKS7cPmvk
 
-Instructions for using the software:
+# Development Environment
 
-1. Just click the run code button on the top right to see what the robot has to say.
-2.
-3.
+Visual Studio Code
 
-## Development Environment
+Python
 
-To recreate the development environment, you need the following software and/or libraries with the specified versions:
-
-* VS Studio Code
-* Python Library for VS Studio Code
-*
-
-## Useful Websites to Learn More
-
-I found these websites useful in developing this software:
-
-* None
-*
-*
-
-## Future Work
-
-The following items I plan to fix, improve, and/or add to this project in the future:
-
-* [ ] Build a person scanner for the baby world destroying robot so I can be removed from the destroy list
-* [ ] Add "Manly" voice to the robot so it sounds more terrifying
-* [ ] Add a soft serve machine to the robot
+# Useful Websites
+I did not use any websites for this project.
